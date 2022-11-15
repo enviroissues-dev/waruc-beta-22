@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'waruc-beta'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_24385AAA6763408FA093D45887D4F810 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BE3FA83393443D39DAE6FF4CB21967D }}
           package: .
